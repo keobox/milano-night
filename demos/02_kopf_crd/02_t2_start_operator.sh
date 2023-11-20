@@ -1,3 +1,6 @@
+#!/bin/sh
+
 export KUBECONFIG=~/.kube/config.kwok
 export PYTHONUNBUFFERED=1
-pyenv shell kopf
+
+kopf run label_oper.py --verbose
