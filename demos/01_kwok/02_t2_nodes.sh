@@ -1,6 +1,6 @@
 #!/bin/sh
 
-KUBECONFIG=~/.ssh/config.kwok
+export KUBECONFIG=~/.ssh/config.kwok
 
 echo "Creating a fake node"
 echo "Hit a key..."
