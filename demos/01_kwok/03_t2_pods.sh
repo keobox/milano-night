@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export KUBECONFIG=~/.ssh/config.kwok
+export KUBECONFIG=~/.kube/config.kwok
 
 echo "Creating a fake deployment with a replicaset of 10 pods"
 echo "Hit a key..."
