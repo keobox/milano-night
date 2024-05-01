@@ -1,4 +1,4 @@
-# milano-night
+# Kubernetes Operators: the pythonic way.
 
 https://nbviewer.org/github/keobox/milano-night/blob/main/kopf_and_kwok.ipynb
 
