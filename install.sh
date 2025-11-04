@@ -1,5 +1,8 @@
 #!/bin/sh 
 
+echo "Jupyter is changed to JupyterLab and this way to install won't work"
+exit 1
+
 echo "Install slides dependencies"
 echo "CTRL-C to stop"
 read

@@ -1,0 +1,10 @@
+[project]
+name = "milano-night"
+version = "0.1.0"
+description = "Talk about KWOK and KOPF"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kopf",
+	"kubernetes",
+]
