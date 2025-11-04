@@ -1,8 +1,11 @@
 # Kubernetes Operators: the pythonic way.
 
-https://nbviewer.org/github/keobox/milano-night/blob/main/kopf_and_kwok.ipynb
+The first time this project is used invoke
+`sync-uv.sh`
 
-Then click on the package button at the right of "FAQ".
+[Click here to open the slides](https://nbviewer.org/github/keobox/milano-night/blob/main/kopf_and_kwok.ipynb)
 
-- Play one: Python Milano 2023-11-23 https://www.youtube.com/watch?v=tGC_EKnWRno
+Then click on the "present" button at the right of "FAQ".
+
+- Play one: [Python Milano 2023-11-23](https://www.youtube.com/watch?v=tGC_EKnWRno)
 - Play two: Pycon Italy 2024-05-24
